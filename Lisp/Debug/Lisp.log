@@ -1,0 +1,4 @@
+﻿  Lisp.c
+c:\users\sun\source\repos\lisp\lisp\lisp.c(88): warning C4244: “函数”: 从“double”转换到“long”，可能丢失数据
+  Lisp.vcxproj -> C:\Users\sun\source\repos\Lisp\Debug\Lisp.exe
+  Lisp.vcxproj -> C:\Users\sun\source\repos\Lisp\Debug\Lisp.pdb (Partial PDB)
